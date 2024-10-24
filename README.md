@@ -39,18 +39,6 @@ cd WordWaveApp
 open WordWaveApp.xcodeproj
 Build and run the app on your iOS simulator or connected device.
 
-**Screenshots**
-1. Home Screen
-The Home Screen provides a welcoming interface where users can navigate to various sections of the app, including creating flashcards, accessing quizzes, and tracking progress.
-2. Flashcard Creation
-Users can easily create and customize flashcards by entering the word, definition, and example sentences. The interface allows for quick editing and categorization of flashcards.
-3. Quiz Mode
-In Quiz Mode, users can test their vocabulary skills through engaging multiple-choice questions. Instant feedback is provided to help users learn from their mistakes.
-4. Progress Tracking
-The Progress Tracking dashboard offers insights into the user's learning journey, showcasing daily, weekly, and monthly performance metrics to keep learners motivated and informed.
-5. Statistics and Insights
-Users can view detailed statistics about their performance, including accuracy rates, response times, and word mastery levels, helping them identify areas for improvement.
-
 **How to Use**
 Create Flashcards: Add new flashcards by entering the word, definition, and additional notes or examples.
 Take Quizzes: Go to quiz mode and test your knowledge through interactive questions.
