@@ -1,0 +1,6 @@
+# Set text files to use LF (Unix style) line endings
+*.swift text eol=lf
+*.json text eol=lf
+*.plist text eol=lf
+*.xcodeproj text eol=lf
+*.xcworkspace text eol=lf
